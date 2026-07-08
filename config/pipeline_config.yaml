@@ -1,0 +1,3 @@
+pipeline:
+  name: bdp
+  environment: local

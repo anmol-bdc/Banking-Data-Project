@@ -1,0 +1,16 @@
+certifi==2026.6.17
+charset-normalizer==3.4.7
+delta-spark==3.2.0
+Faker==40.23.0
+idna==3.18
+importlib_metadata==8.7.1
+numpy==2.4.6
+pandas==3.0.3
+py4j==0.10.9.7
+pyspark==3.5.1
+python-dateutil==2.9.0.post0
+requests==2.32.3
+six==1.17.0
+tzdata==2026.2
+urllib3==2.7.0
+zipp==4.1.0

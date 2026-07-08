@@ -1,0 +1,6 @@
+scenario_id,scenario_name,deposit_runoff_pct,loan_drawdown_pct,fx_shock_pct,liquidity_haircut_pct,funding_cost_increase_pct,market_stress_factor,effective_date,expiry_date
+1,Base,0.0,0.0,0.0,0.0,0.0,1.0,2026-06-10,2099-12-31
+2,1 Notch Downgrade,0.05,0.04,0.03,0.06,0.02,1.1,2026-06-10,2099-12-31
+3,3 Notch Downgrade,0.1,0.08,0.07,0.12,0.05,1.22,2026-06-10,2099-12-31
+4,Severe Downgrade,0.18,0.14,0.12,0.2,0.09,1.4,2026-06-10,2099-12-31
+5,Combined,0.25,0.18,0.15,0.25,0.12,1.55,2026-06-10,2099-12-31

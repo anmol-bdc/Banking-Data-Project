@@ -1,0 +1,5 @@
+RAW_DATA_DIR = "data/raw"
+BRONZE_DATA_DIR = "data/bronze"
+SILVER_DATA_DIR = "data/silver"
+GOLD_DATA_DIR = "data/gold"
+AUDIT_DATA_DIR = "data/audit"

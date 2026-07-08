@@ -1,0 +1,16 @@
+2026-07-02 09:14:51,681 | __main__ | INFO | Data generation pipeline started
+2026-07-02 09:14:55,341 | __main__ | INFO | User selected tables: ['intraday', 'loans', 'fx_rates', 'cash', 'transactions', 'scenario']
+2026-07-02 09:14:55,341 | __main__ | INFO | Generation order: ['loans', 'intraday', 'fx_rates', 'cash', 'transactions', 'scenario']
+2026-07-02 09:14:55,343 | __main__ | INFO | Processing table: loans
+2026-07-02 09:14:55,924 | __main__ | INFO | loans generated successfully (rows=5000, cols=14)
+2026-07-02 09:14:55,926 | __main__ | INFO | Processing table: intraday
+2026-07-02 09:14:57,640 | __main__ | INFO | intraday generated successfully (rows=4000, cols=14)
+2026-07-02 09:14:57,640 | __main__ | INFO | Processing table: fx_rates
+2026-07-02 09:14:57,844 | __main__ | INFO | fx_rates generated successfully (rows=4000, cols=9)
+2026-07-02 09:14:57,844 | __main__ | INFO | Processing table: cash
+2026-07-02 09:14:58,157 | __main__ | INFO | cash generated successfully (rows=5000, cols=13)
+2026-07-02 09:14:58,157 | __main__ | INFO | Processing table: transactions
+2026-07-02 09:14:59,883 | __main__ | INFO | transactions generated successfully (rows=5000, cols=14)
+2026-07-02 09:14:59,883 | __main__ | INFO | Processing table: scenario
+2026-07-02 09:14:59,890 | __main__ | INFO | scenario generated successfully (rows=5, cols=10)
+2026-07-02 09:14:59,890 | __main__ | INFO | Data generation pipeline completed successfully
