@@ -15,7 +15,7 @@ A production-inspired banking data engineering simulation built using Python, Py
 
 ### Interns
 - Debshata Choudhury
-- Anmol Gupta
+- Anmol Garg
 
 ### Project Buddy
 - Karan P. Singh
