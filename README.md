@@ -8,6 +8,8 @@ The project demonstrates how banking data can move through a modern Medallion Ar
 # Banking Data Engineering Simulation Platform
 
 A production-inspired banking data engineering simulation built using Python, PySpark, Delta Lake, and Power BI.
+<img width="767" height="680" alt="image" src="https://github.com/user-attachments/assets/0fb7e4e2-2c5d-4b03-bcaf-10f62b592911" />
+
 
 ---
 
