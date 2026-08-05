@@ -13,17 +13,6 @@ A production-inspired banking data engineering simulation built using Python, Py
 
 ---
 
-## Project Team
-
-### Interns
-- Debshata Choudhury
-- Anmol Garg
-
-### Project Buddy
-- Karan P. Singh
-
----
-
 ## Project Overview
 
 The project demonstrates how banking data can move through a modern Medallion Architecture pipeline, from raw data generation to interactive business intelligence dashboards.
